@@ -1,0 +1,10 @@
+https://www.kaggle.com/wosaku/crime-in-vancouver
+
+Basket analysis:
+https://www.kaggle.com/heeraldedhia/groceries-dataset
+
+Soccer data:
+https://www.kaggle.com/karangadiya/fifa19
+
+Mushroom classification
+https://www.kaggle.com/uciml/mushroom-classification

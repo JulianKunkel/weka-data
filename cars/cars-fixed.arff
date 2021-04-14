@@ -1,0 +1,13 @@
+% Dies ist ein Kommentar
+% Erstelldatum: 2021-04-10
+@Relation cars
+@Attribute color {red,blue}
+@Attribute purchased DATE "yyyy-MM-dd HH:mm:ss"
+@Attribute owner string
+@Attribute price numeric
+@Attribute type {Nissan,VW}
+
+@Data
+blue,"2020-10-01 12:20:10","Doris Musterfrau",10200.00,?
+red,"2020-10-02 13:20:10","Max Musterman",20500.00,VW
+red,"2016-10-02 00:00:00","Max Musterman",10000,VW
